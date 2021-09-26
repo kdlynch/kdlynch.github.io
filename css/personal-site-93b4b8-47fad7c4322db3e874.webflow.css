@@ -2659,6 +2659,10 @@ li {
     grid-template-columns: 1fr;
   }
 
+  .company-logo {
+    width: 250px;
+  }
+
   .content-section {
     padding-top: 80px;
     padding-bottom: 80px;
